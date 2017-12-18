@@ -10,7 +10,13 @@ end
 
 honeypots = nil
 
-GC.enable
+status_gc = GC.enable
+
+puts "1 - #{status_gc}"
+
+status_gc = GC.enable
+puts "2 - #{status_gc}"
+
 
 GC.start
 
