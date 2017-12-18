@@ -1,4 +1,6 @@
 # project
 # winnie_the_pooh
 # lesson 4
-# curse good programmer
+# cuource good programmer
+# link
+# http://goodprogrammer.ru/real-programming-2/lessons/04-variables-objects-memory-scope
